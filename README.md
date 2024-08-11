@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me haajarajamal@gmail.com
-- 😄 Pronouns: Haa_ja_r
+- 😄 Pronouns: she\her
 - ⚡ Fun fact: fear to face crowd physicaly
 
 <!---
