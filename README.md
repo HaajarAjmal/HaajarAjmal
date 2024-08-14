@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me haajarajamal@gmail.com
 - 😄 Pronouns: she\her
-- ⚡ Fun fact: fear to face crowd physicaly
+- ⚡ Fun fact: 
 
 <!---
 HaajarAjmal/HaajarAjmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
